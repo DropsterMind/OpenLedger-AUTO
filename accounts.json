@@ -1,0 +1,10 @@
+[
+    {
+        "Address": "your_address_1",
+        "Token": "your_access_token_1"
+    },
+    {
+        "Address": "your_address_2",
+        "Token": "your_access_token_2"
+    }
+]
